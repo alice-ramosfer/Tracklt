@@ -110,6 +110,7 @@ export default function Habitos(){
             setLoading(false)
             setNomeHab("")
             setDiasSelecionados([])
+            setExpanded(false)
         })
         .catch(err => {
             
