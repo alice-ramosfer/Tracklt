@@ -193,6 +193,8 @@ const Conteudo=styled.nav`
     justify-content:center;
     flex-direction:column;
     gap:13px;
+    margin-bottom:150px;
+    overflow-y:true;
 
 `
 const NenhumHabito =styled.div`
